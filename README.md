@@ -1,12 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
 Find my CV [here](https://i5heu.github.io/Faultier-CV/dist/index.html)
 I am open to new work 👩‍💻
 
-#### 🌱 I’m currently learning
+### 🌱 I’m currently learning
 Kubernetes and high availability
 
-#### 📫 How to reach me:
+### 📫 How to reach me:
 Have a look at my Mastodon: https://lgbtqia.space/@mia
 
 <!--
