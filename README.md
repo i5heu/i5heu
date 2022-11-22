@@ -24,4 +24,4 @@ Have a look at my Mastodon: https://lgbtqia.space/@mia
 ## Time spend coding on FOSS projects since 19.11.2022
 Total: [![wakatime](https://wakatime.com/badge/user/5c9e80ad-4978-4730-9587-c758525cbd4e.svg)](https://wakatime.com/@5c9e80ad-4978-4730-9587-c758525cbd4e)
 
-simple-S3-cache: [![wakatime](https://wakatime.com/badge/github/i5heu/simple-S3-cache.svg)](https://wakatime.com/badge/github/i5heu/simple-S3-cache)
+bonito-cache: [![wakatime](https://wakatime.com/badge/github/i5heu/bonito-cache.svg)](https://wakatime.com/badge/github/i5heu/bonito-cache)
