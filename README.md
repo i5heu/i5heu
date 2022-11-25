@@ -7,7 +7,7 @@ I am open to new work 👩‍💻
 Kubernetes and high availability
 
 ### 📫 How to reach me:
-Have a look at my Mastodon: https://lgbtqia.space/@mia
+Have a look at my Mastodon: https://hachyderm.io/@mia_tech
 
 <!--
 - 🔭 I’m currently working on ...
