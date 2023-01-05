@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-Find my CV [here](https://i5heu.github.io/Faultier-CV/dist/index.html)
 I am open to new work 👩‍💻
 
 ### 🌱 I’m currently learning
