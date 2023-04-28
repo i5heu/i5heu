@@ -1,5 +1,8 @@
 ## Hi there 👋
 I am open to new work 👩‍💻
+<p align="center">
+  <img src="miau_photo_of_an_rain_dropplet_out_of_matrix_code_falling_on_a__62f1893d-7ad4-471f-9d65-4f03a55c9dd1-1.png">
+</p>
 
 ### 🌱 I’m currently learning
 Kubernetes and high availability
