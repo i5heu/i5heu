@@ -5,7 +5,7 @@ I am open to new work 👩‍💻
 Kubernetes and high availability
 
 ### 📫 How to reach me:
-Have a look at my Mastodon: https://hachyderm.io/@mia_tech
+Have a look at my Mastodon: https://lgbtqia.space/@m
 
 <!--
 - 🔭 I’m currently working on ...
@@ -17,6 +17,14 @@ Have a look at my Mastodon: https://hachyderm.io/@mia_tech
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i5heu&theme=github_dark">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i5heu&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i5heu&theme=github_dark">
+</p>
 
 
 ## Time spend coding on FOSS projects since 19.11.2022
