@@ -28,6 +28,9 @@ Have a look at my Mastodon: https://lgbtqia.space/@m
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i5heu&theme=github_dark">
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=i5heu&theme=dark&card_width=700&exclude_days=Sun">
+</p>
 
 ## Time spend coding on FOSS projects since 19.11.2022
 Total: [![wakatime](https://wakatime.com/badge/user/5c9e80ad-4978-4730-9587-c758525cbd4e.svg)](https://wakatime.com/@5c9e80ad-4978-4730-9587-c758525cbd4e)
