@@ -21,12 +21,15 @@ Have a look at my Mastodon: https://lgbtqia.space/@m
 -->
 
 <p align="center">
-  <img height="175px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i5heu">
-  <img height="175px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i5heu">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i5heu&theme=github_dark">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i5heu&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=i5heu&theme=github_dark">
 </p>
 
 <p align="center">
-  <img height="175px" src="https://streak-stats.demolab.com?user=i5heu&card_width=700&exclude_days=Sun">
+  <img src="https://streak-stats.demolab.com?user=i5heu&theme=dark&card_width=700&exclude_days=Sun">
 </p>
 
 ## Time spend coding on FOSS projects since 19.11.2022
