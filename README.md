@@ -7,7 +7,7 @@
 Kubernetes and high availability
 
 ### 📫 How to reach me:
-Have a look at my Mastodon: https://lgbtqia.space/@m
+Have a look at my Mastodon: https://mastodon.social/@heidenstedt
 
 <!--
 - 🔭 I’m currently working on ...
