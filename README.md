@@ -36,4 +36,6 @@ Have a look at my Mastodon: https://mastodon.social/@heidenstedt
 Total: [![wakatime](https://wakatime.com/badge/user/5c9e80ad-4978-4730-9587-c758525cbd4e.svg)](https://wakatime.com/@5c9e80ad-4978-4730-9587-c758525cbd4e)
 
 bonito-cache: [![wakatime](https://wakatime.com/badge/github/i5heu/bonito-cache.svg)](https://wakatime.com/badge/github/i5heu/bonito-cache)  
-GitCognito: [![wakatime](https://wakatime.com/badge/github/i5heu/GitCognitio.svg)](https://wakatime.com/badge/github/i5heu/GitCognitio)
+GitCognito: [![wakatime](https://wakatime.com/badge/github/i5heu/GitCognitio.svg)](https://wakatime.com/badge/github/i5heu/GitCognitio)  
+MastodonTelegramBot: [![wakatime](https://wakatime.com/badge/user/5c9e80ad-4978-4730-9587-c758525cbd4e/project/018cc5a2-a66b-4401-a66e-55426823f8ed.svg)](https://wakatime.com/projects/MastodonTelegramBot)  
+Heidenstedt's Blueprint: [![wakatime](https://wakatime.com/badge/user/5c9e80ad-4978-4730-9587-c758525cbd4e/project/018ceda5-a6b0-49f4-b765-3316cb60d6c9.svg)](https://wakatime.com/projects/Heidenstedt-Blueprint)
