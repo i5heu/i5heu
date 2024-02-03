@@ -29,7 +29,7 @@ Have a look at my Mastodon: https://mastodon.social/@heidenstedt
 </p>
 
 <p align="center">
-  <img src="https://commit-streak.heidenstedt.org/generate?githubUser=i5heu&mode=dark&strictness=strict&bonusDayEvery=3">
+  <img src="https://commit-streak.heidenstedt.org/generate?githubUser=i5heu&mode=dark&bonusDayEvery=3">
 </p>
 
 ## Time spend coding on FOSS projects since 19.11.2022
