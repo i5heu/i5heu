@@ -35,6 +35,7 @@ Have a look at my Mastodon: https://mastodon.social/@heidenstedt
 ## Time spend coding on FOSS projects since 19.11.2022
 Total: [![wakatime](https://wakatime.com/badge/user/5c9e80ad-4978-4730-9587-c758525cbd4e.svg)](https://wakatime.com/@5c9e80ad-4978-4730-9587-c758525cbd4e)
 
+OuroborosDB: [![wakatime](https://wakatime.com/badge/user/5c9e80ad-4978-4730-9587-c758525cbd4e/project/595c107d-f405-4a0c-8c5d-de9b1256b767.svg)](https://github.com/i5heu/ouroboros-db)  
 bonito-cache: [![wakatime](https://wakatime.com/badge/github/i5heu/bonito-cache.svg)](https://wakatime.com/badge/github/i5heu/bonito-cache)  
 GitCognito: [![wakatime](https://wakatime.com/badge/github/i5heu/GitCognitio.svg)](https://wakatime.com/badge/github/i5heu/GitCognitio)  
 MastodonTelegramBot: [![wakatime](https://wakatime.com/badge/user/5c9e80ad-4978-4730-9587-c758525cbd4e/project/018cc5a2-a66b-4401-a66e-55426823f8ed.svg)](https://wakatime.com/projects/MastodonTelegramBot)  
