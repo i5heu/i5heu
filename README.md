@@ -7,7 +7,7 @@
 Kubernetes and high availability
 
 ### 📫 How to reach me:
-Have a look at my BlueSky https://bsky.app/profile/heidenstedt.org 
+Have a look at my BlueSky https://bsky.app/profile/heidenstedt.org   
 Or at my Mastodon: https://mastodon.social/@heidenstedt  
 
 
